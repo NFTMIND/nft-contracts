@@ -1,2 +1,2 @@
-# dego-nft-v2
-dego-nft-v2
+#NFTMIND-nft-v2
+NFTMIND-nft-v2
