@@ -1,9 +1,0 @@
-{
-  "language": "",
-  "main": "./contracts/NFTMarketV1.0.sol",
-  "deploy": "./build/contracts/NFTMarke.json",
-  "compilers": {
-    "truffle": "",
-    "solc": ""
-  }
-}
