@@ -24,8 +24,8 @@ contract NFTMarket {
     event eveNewSales(uint256 tokenId);
 
 
-    uint256 private  _serviceCharge = 0;
-    address private _gathering = 0x582668B2272CeF9c6de655d08beB97bfFc197Bc1;
+    uint256 private  _serviceCharge = 5;
+    address private _gathering = 0x2aA743E8E4f60dECe1e8c55202048Ef7F36Bbd71;
 
 
     event eveTransaction(
