@@ -8,7 +8,7 @@ contract NftmindToken is ERC721URIStorage {
     using Counters for Counters.Counter;
     Counters.Counter private _tokenIds;
 
-    constructor() ERC721("NFTMarke", "ITM") {}
+    constructor() ERC721("nftmind", "NTM") {}
 
     function awardItem(address player, string memory tokenURI)
         public
